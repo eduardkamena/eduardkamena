@@ -21,9 +21,9 @@
 
 ## 📈 Статистика GitHub
 
-![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=ТвойUsername&show_icons=true&theme=radical)
+![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=eduardkamena&show_icons=true&theme=radical)
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ТвойUsername&layout=compact&theme=radical)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardkamena&layout=compact&theme=radical)
 
 ## 📫 Как связаться со мной
 
